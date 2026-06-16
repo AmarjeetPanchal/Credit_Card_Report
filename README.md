@@ -48,6 +48,17 @@ An interactive Power BI dashboard built to analyze customer behavior and credit 
 
 ---
 
+## 🧹 Data Preparation
+
+* Imported customer and transaction data into **PostgreSQL**
+* Cleaned and transformed raw data using **Power Query**
+* Handled missing values and standardized column formats
+* Created relationships between customer and transaction tables
+* Developed custom **DAX measures** for revenue, weekly analysis, age groups, income groups and KPI calculations
+* Created calculated columns for customer segmentation and trend analysis
+
+---
+
 ## 🔍 Key Insights
 
 * **Overall revenue reached 57M** with total interest earnings of **8M**
@@ -58,17 +69,6 @@ An interactive Power BI dashboard built to analyze customer behavior and credit 
 * **Swipe transactions generated the highest revenue**, followed by Chip transactions
 * **Texas, New York and California** were among the top revenue-contributing states
 * Revenue and transaction counts showed consistent growth across quarters, with **Q4 recording the highest performance**
-
----
-
-## 🧹 Data Preparation
-
-* Imported customer and transaction data into **PostgreSQL**
-* Cleaned and transformed raw data using **Power Query**
-* Handled missing values and standardized column formats
-* Created relationships between customer and transaction tables
-* Developed custom **DAX measures** for revenue, weekly analysis, age groups, income groups and KPI calculations
-* Created calculated columns for customer segmentation and trend analysis
 
 ---
 
