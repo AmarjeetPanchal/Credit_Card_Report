@@ -28,6 +28,25 @@ An interactive Power BI dashboard built to analyze customer behavior and credit 
 * Transaction Amount: **46M**
 * Transaction Count: **667K**
 
+---
+
+## 📷 Dashboard Preview
+
+### 👥 Customer Dashboard
+
+The Customer Dashboard provides insights into customer demographics, income groups, education levels, marital status, and revenue distribution across different customer segments.
+
+![Customer Dashboard](Credit_Card_Customer_Report.png)
+
+### 💳 Transaction Dashboard
+
+The Transaction Dashboard focuses on transaction behavior, card category performance, expenditure patterns, quarterly trends, and payment methods used by customers.
+
+![Transaction Dashboard](Credit_Card_Transaction_Report.png)
+
+---
+
+
 ### Visualizations
 
 * **Line Chart** — Revenue Trend by Week
